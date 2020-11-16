@@ -18,3 +18,6 @@ const Component = () => {
   return <FaHome className='icon'></FaHome>;
 };
 ```
+#### new requirements
+-create new questions
+-delete
